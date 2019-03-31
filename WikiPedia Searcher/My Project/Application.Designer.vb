@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.WikiPedia_Searcher.Form1
+            Me.MainForm = Global.WikiPedia_Searcher.Form_Wiki_Search
         End Sub
     End Class
 End Namespace
